@@ -1,7 +1,7 @@
 {
   "name": "giant-procurement/nova-duplicate-field",
   "description": "A Laravel Nova field to duplicate records.",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "keywords": [
     "laravel",
     "nova",
